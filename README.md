@@ -1,7 +1,7 @@
 # w3-training
 Welcome to the Portfolio Webpage Template Training! In this guide, you'll learn how to create a simple and personalized portfolio webpage using HTML and CSS. Follow the steps and customize the template to showcase your skills and projects effectively.
 
-#############################################
+																													#############################################
 Getting Started
 HTML Basics
 HTML (HyperText Markup Language) is the standard markup language for creating web pages. It consists of elements represented by tags.
